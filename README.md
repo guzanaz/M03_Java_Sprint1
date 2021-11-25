@@ -1,4 +1,4 @@
-# M03_Java_Sprint1
+# M03 Java Sprint1
  
 _pkgGestioVirtualio: Implementa una aplicación para hacer un CRUD con objetos tipo Máquina Virtual. Se compone por el módulo:_
 
